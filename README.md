@@ -84,4 +84,3 @@ I'm Shivaji, a React.JS based Developer💻 and DSA Enthusiast...</div>
 <br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
