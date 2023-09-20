@@ -16,7 +16,7 @@ I'm Shivaji, a React.JS based Developer💻 and DSA Enthusiast...</div>
 - **🖥️ [GeeksForGeeks](https://auth.geeksforgeeks.org/user/shivajirathod0015/practice), [Leet Code](https://leetcode.com/Shivaji_x_/) and [HackerRank](https://www.hackerrank.com/shivajirathod001) Profiles.**  
   
 
-- **⚛️ ReactJS Live Projects: [Portfolio](https://portfoliox-seven.vercel.app/) and [Crypto Screener](https://xcrypto-ochre.vercel.app/).**  
+- **⚛️ ReactJS Live Projects: [Portfolio](https://portfoliox-seven.vercel.app/), [ShowXpress](https://showxpress.vercel.app/) and [Crypto Screener](https://xcrypto-ochre.vercel.app/).**  
   
 
 <br/>  
