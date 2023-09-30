@@ -1,5 +1,5 @@
 <div align="center">
-<a href = "https://portfoliox-seven.vercel.app/"><img target="_blank" src="https://github.com/Shivaji2808/Shivaji2808/blob/main/Screenshot%202023-09-19%20135831.png?raw=true" align="center" style="width: 100%" /></a>
+<a href = "https://portfoliox-seven.vercel.app/" target = "_blank"><img target="_blank" src="https://github.com/Shivaji2808/Shivaji2808/blob/main/Screenshot%202023-09-19%20135831.png?raw=true" align="center" style="width: 100%" /></a>
 </div>  
   
 
